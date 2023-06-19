@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 10
+    },
+    "auditLog": "E:\\webshilpo\\webshilpo-server\\logs\\winston\\successes\\.7926e2a0f5b9c94ac3ff67d2d73c306909a6ef0a-audit.json",
+    "files": [
+        {
+            "date": 1687185576900,
+            "name": "E:\\webshilpo\\webshilpo-server\\logs\\winston\\successes\\phu-2023-19-06-20-success.log",
+            "hash": "da33e82a934a39580063f49ce636c8d015281092bf426266781bc96c1cf7ed3f"
+        }
+    ],
+    "hashType": "sha256"
+}
